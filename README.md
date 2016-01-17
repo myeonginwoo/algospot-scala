@@ -9,4 +9,4 @@ algospot algorithm by scala
  * [풀이](https://github.com/myeonginwoo/algospot-scala/blob/master/src/ENCRYPT.scala)
 3. [MISPEL](https://algospot.com/judge/problem/read/MISPELL)
  * 시간 717ms
- * [풀이](https://github.com/myeonginwoo/algospot-scala/blob/master/src/MISSPEL)
+ * [풀이](https://github.com/myeonginwoo/algospot-scala/blob/master/src/MISSPEL.scala)
