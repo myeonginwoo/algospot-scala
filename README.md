@@ -13,3 +13,6 @@ algospot algorithm by scala
 4. [CONVERT](https://algospot.com/judge/problem/read/CONVERT)
  * 시간 902ms
  * [풀이](https://github.com/myeonginwoo/algospot-scala/blob/master/src/CONVERT.scala)
+5. [HOTSUMMER](https://algospot.com/judge/problem/read/HOTSUMMER)
+ * 시간 665ms
+ * [풀이](https://github.com/myeonginwoo/algospot-scala/blob/master/src/HOTSUMMER.scala)
