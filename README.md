@@ -1,6 +1,8 @@
 # algospot-scala
 algospot algorithm by scala
-
+* [XHAENEUNG (2016-01-23)](https://algospot.com/judge/problem/read/XHAENEUNG)
+ * 시간 825mm
+ * [풀이](https://github.com/myeonginwoo/algospot-scala/blob/master/src/XHAENEUNG.scala)
 * [URI (2016-01-21)](https://algospot.com/judge/problem/read/URI)
  * 시간 740ms
  * [풀이](https://github.com/myeonginwoo/algospot-scala/blob/master/src/URI.scala)
