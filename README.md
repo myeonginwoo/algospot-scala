@@ -1,5 +1,8 @@
 # algospot-scala
 algospot algorithm by scala
+* [WEIRD (2016-01-24] ()
+ * 시간 런타임오류...ㅠㅠ
+ * [풀이](https://github.com/myeonginwoo/algospot-scala/tree/master/src.weird.scala)
 * [XHAENEUNG (2016-01-23)](https://algospot.com/judge/problem/read/XHAENEUNG)
  * 시간 825mm
  * [풀이](https://github.com/myeonginwoo/algospot-scala/blob/master/src/XHAENEUNG.scala)
