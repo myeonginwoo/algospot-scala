@@ -1,5 +1,8 @@
 # algospot-scala
 algospot algorithm by scala
+* [HAMMINGCODE (2016-01-25](https://algospot.com/judge/problem/read/HAMMINGCODE)
+ * 시간 정답인데.. 왜 오답인지 모르겠다.. 샘플들을 다 구해도 정답인데... 검증 코드가 의심스럽다.
+ *  [풀이](https://github.com/myeonginwoo/algospot-scala/blob/master/src/HAMMINGCODE.scala)
 * [WEIRD (2016-01-24] ()
  * 시간 런타임오류...ㅠㅠ
  * [풀이](https://github.com/myeonginwoo/algospot-scala/blob/master/src/weird.scala)
