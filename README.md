@@ -1,5 +1,7 @@
 # algospot-scala
 algospot algorithm by scala
+* [Mismatched Brackets](https://algospot.com/judge/problem/read/BRACKETS2)
+ * [풀이](https://github.com/myeonginwoo/algospot-scala/blob/master/src/BRACKETS2.scala)
 * [Weekly Calendar(2016-02-03)](https://algospot.com/judge/problem/read/WEEKLYCALENDAR)
  * 시간 : 시간초과라고 나온다... 스칼라라서 그런지 모르겠지만.. 내 알고리즘에 문제는 없어 보인다.. List 가 느려 Vector로변환 했는데도..
  * [풀이](https://github.com/myeonginwoo/algospot-scala/blob/master/src/Weekly%20Calendar.scala)
