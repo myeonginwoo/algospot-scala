@@ -5,6 +5,8 @@ algospot algorithm by scala
 * [Weekly Calendar(2016-02-03)](https://algospot.com/judge/problem/read/WEEKLYCALENDAR)
  * 시간 : 시간초과라고 나온다... 스칼라라서 그런지 모르겠지만.. 내 알고리즘에 문제는 없어 보인다.. List 가 느려 Vector로변환 했는데도..
  * [풀이](https://github.com/myeonginwoo/algospot-scala/blob/master/src/Weekly%20Calendar.scala)
+ * 스칼라를 좀 공부하고... 알고리즘도 공부 한 후 .. 알고리즘을 수정하니 잘 된다.. 역시 코드는 거짓말을 하지 않는다...
+ * [개선된 풀이](https://github.com/myeonginwoo/algospot-scala/blob/master/src/Weekly%20Calendar2.scala)
 * [HAMMINGCODE (2016-01-25)] (https://algospot.com/judge/problem/read/HAMMINGCODE)
  * 시간 : 정답인데.. 왜 오답인지 모르겠다.. 샘플들을 다 구해도 정답인데... 검증 코드가 의심스럽다.
  *  [풀이](https://github.com/myeonginwoo/algospot-scala/blob/master/src/HAMMINGCODE.scala)
